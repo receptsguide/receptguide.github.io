@@ -1,0 +1,42 @@
+/*------------------Оформление сайта---------------------*/
+body{
+	background: url(https://cs2.livemaster.ru/storage/a3/4f/7d23a7ebeb7824d8394f8299ef2v--dizajn-reklama-derevyannyj-foto-fon.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;	
+}
+
+.otstup{
+		
+}
+
+.l1{
+	margin-right: 50px;
+	margin-left: 50px;
+	padding: 10px;
+	text-shadow: 1px 1px 2px black;
+	color: #FFEBCD;
+}	
+img{ 
+	border-radius: 10px;
+	box-shadow: 0 0 5px 2px black;
+}
+
+.img1{ 
+	margin-right: 20px;
+}
+
+.img2{ 
+	margin-left: 20px;
+}
+
+table{
+	border: 2px solid;
+	border-collapse: collapse;
+	border-color: black;
+}
+	
+tr, th, td{
+	border: 2px solid black;
+}

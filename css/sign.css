@@ -1,0 +1,106 @@
+body{
+	background: url(https://cs2.livemaster.ru/storage/a3/4f/7d23a7ebeb7824d8394f8299ef2v--dizajn-reklama-derevyannyj-foto-fon.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+form{
+	width: 470px;
+	height: 370px;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 0 0 5px;
+	margin: 30px;
+	text-align: left;
+	padding: 20px;
+	background-color: white;
+	font-family: Tahoma
+	!mportant;
+}
+
+.log_form{
+	margin: 50px auto 0px auto;
+}
+
+textarea{
+	width: 280px;
+	height: 80px;
+	border-radius: 5px;
+	background-color: #FAF0E1;
+	font-family: Tahoma;
+	border: none;
+	padding: 10px;
+	resize: none;
+	font-family: Tahoma;
+}
+
+input[type="text"]{
+	padding: 5px;
+	padding-left: 10px;
+	border-radius: 3px;
+	background-color: #FAF0E1;
+	border: none;
+	font-family: Tahoma;
+	width: 270px;
+	float: right;
+}
+
+input[type="email"]{
+	padding: 5px;
+	padding-left: 10px;
+	border-radius: 3px;
+	background-color: #FAF0E1;
+	border: none;
+	font-family: Tahoma;
+	width: 270px;
+	float: right;
+}
+
+input[type="password"]{
+	padding: 5px;
+	padding-left: 10px;
+	border-radius: 3px;
+	background-color: #FAF0E1;
+	border: none;
+	font-family: Tahoma;
+	width: 270px;
+	float: right;
+}
+
+button{
+	padding: 10px;
+	border-radius: 3px;
+	box-shadow: 0 0 3px;
+	background-color: #FAF0E1;
+	border: none;
+	font-family: Tahoma;
+	margin-left: 110px;
+	float: right;
+}
+
+.submit:hover{
+	background: #B29779;
+}
+
+label{
+	font-family: Tahoma;
+	font-size: 18px;
+}
+
+.label{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #222222;
+}
+
+img{ 
+	border-radius: 10px;
+	box-shadow: 0 0 5px 2px black;
+}
+
+.img1{ 
+	margin-right: 40px;
+	margin-top: 20px;
+}

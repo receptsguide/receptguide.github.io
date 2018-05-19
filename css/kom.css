@@ -1,0 +1,106 @@
+/*------------------Оформление сайта---------------------*/
+body{
+	background: url(https://cs2.livemaster.ru/storage/a3/4f/7d23a7ebeb7824d8394f8299ef2v--dizajn-reklama-derevyannyj-foto-fon.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+/*------------------Комментарии-------------------*/
+.form{
+	
+}
+
+form{
+	width: 350px;
+	height: 450px;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 0 0 5px;
+	margin: 30px;
+	text-align: left;
+	padding: 20px;
+	background-color: white;
+	font-family: Tahoma !important; 
+}
+
+textarea{
+	width: 280px;
+	height: 80px;
+	border-radius: 5px;
+	background-color: #FAF0E1;
+	font-family: Tahoma;
+	border: none;
+	padding: 10px;
+	resize: none;
+	font-family: Tahoma;
+}
+
+input[type="text"]{
+	padding: 5px;
+	padding-left: 10px;
+	border-radius: 3px;
+	background-color: #FAF0E1;
+	border: none;
+	font-family: Tahoma;
+}
+
+.btn{
+	padding: 10px;
+	border-radius: 3px;
+	box-shadow: 0 0 3px;
+	background-color: #FAF0E1;
+	border: none;
+	font-family: Tahoma;
+	margin-left: 110px;
+	margin-bottom:10px;
+	float: right;
+}
+
+.bt{
+	margin-top:10px;
+}
+
+.submit:hover{
+	background: #B29779;
+}
+
+label{
+	font-family: Tahoma;
+	font-size: 18px;
+}
+
+.komment{
+	width: 50%;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 0 0 5px;
+	margin: 30px;
+	text-align: left;
+	padding: 20px;
+	background-color: white;
+	font-family: Tahoma;
+}
+
+.name{
+	font-size: 20px;
+}
+
+.subject{
+	font-size: 14px;
+}
+
+.message{
+	font-size: 20px;
+}
+
+.i{
+	float: right;
+}
+
+
+.err{
+	float: left;
+	}
+
+	
